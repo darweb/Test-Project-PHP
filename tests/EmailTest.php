@@ -1,7 +1,7 @@
 <?php
 use PHPUnit\Framework\TestCase;
 
-include '/home/vsts/work/1/s/src/Email.php'; 
+include '../src/Email.php';
 
 final class EmailTest extends TestCase
 {
